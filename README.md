@@ -1,2 +1,6 @@
 # Shin-SeungYeol.github.io
-THIS is a H1
+# Shin-SeungYoel
+
+I'm student
+  + Dongseo
+  + 

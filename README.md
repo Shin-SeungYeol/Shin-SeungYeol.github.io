@@ -1,6 +1,7 @@
 # Shin-SeungYeol.github.io
 20221161 신승열<br>
-과제-----------
+과제
+-----------
 [**homework2-1**](https://shin-seungyeol.github.io/homework2-1)<br>
 [**homework2-2**](https://shin-seungyeol.github.io/homework2-2)<br>
 [**homework2-3**](https://shin-seungyeol.github.io/homework2-3)<br>

@@ -8,5 +8,5 @@
 [**Untitled-1.html**](https://shin-seungyeol.github.io/Untitled-1)
 <br><br>
 [**HTML cheat sheet**](https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf)<br>
-[**W3School**[(https://www.w3schools.com/html/default.asp)<br>
+[**W3School**](https://www.w3schools.com/html/default.asp)<br>
 [**교수님사이트**](http://kowon.dongseo.ac.kr/~lbg/)

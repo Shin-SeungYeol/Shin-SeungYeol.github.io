@@ -2,11 +2,10 @@
 ## 20221161 신승열
 ### 과제
 -----------
-• <a href="https://shin-seungyeol.github.io/homework2-1" target="_blank">**Homework2-1**</a><br>
+• [**homework2-1**](https://shin-seungyeol.github.io/homework2-1)<br>
 • [**homework2-2**](https://shin-seungyeol.github.io/homework2-2)<br>
 • [**homework2-3**](https://shin-seungyeol.github.io/homework2-3)<br>
 • [**homework2-4**](https://shin-seungyeol.github.io/homework2-4)<br>
-<a href="http://naver.com" target="_blank">**Go**</a>
 <br>
 ### 관련 사이트
 -----------

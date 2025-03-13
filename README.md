@@ -6,3 +6,5 @@
 [**homework2-3**](https://shin-seungyeol.github.io/homework2-3)<br>
 [**homework2-4**](https://shin-seungyeol.github.io/homework2-4)<br>
 [**Untitled-1.html**](https://shin-seungyeol.github.io/Untitled-1)
+<br><br>
+[**homework2-4**](https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf)

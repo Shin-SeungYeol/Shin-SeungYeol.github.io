@@ -11,7 +11,7 @@
 -----------
 • [**HTML cheat sheet**](https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf)<br>
 • [**W3School**](https://www.w3schools.com/html/default.asp)<br>
-• [**leebyunggook**](http://kowon.dongseo.ac.kr/~lbg/)<br>
+• [**leebyunggook**](https://leebyunggook.github.io/)<br>
 <br>
 ### 연습장
 -----------
